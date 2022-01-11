@@ -50,5 +50,13 @@
 	<false/>
 	<key>io.flutter.embedded_views_preview</key>
 	<true/>
+	<key>io.flutter.embedded_views_preview</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access to scan QR codes</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs location access to connect to your Wi-Fi</string>
+    <key>NSLocationUsageDescription</key>
+    <string>This app needs location access to connect to your Wi-Fi</string>
 </dict>
 </plist>
